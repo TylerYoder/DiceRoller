@@ -1,0 +1,24 @@
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.main.resources
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.Resources.resources
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.vbproj.GenerateResource.Cache
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.xml
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.xml
+C:\Users\Tyler Yoder\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.xml
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.main.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Resources.resources
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.vbproj.GenerateResource.Cache
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.manifest
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.application
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe.manifest
+C:\Users\Tyler Yoder\Documents\Visual Studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.application
